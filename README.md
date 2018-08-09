@@ -1,3 +1,3 @@
 # Frontend
 ラズパイ
-Pythonのどこ勉強すんの
+Pythonのどこを勉強すんの
