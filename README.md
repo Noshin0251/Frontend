@@ -3,3 +3,4 @@
 ラズパイ
 Pythonのどこを勉強すんの
 aaaassssddddd
+abcdefghi
